@@ -20,9 +20,6 @@ My current focus is **production ML, MLOps, and AI engineering**, particularly m
 
 Local LLM inference API with FastAPI and Ollama, including latency, throughput, and concurrent-request benchmarks.
 
-**[Credit Card Fraud Detection](https://github.com/Sergey-Kubarev/fraud-detection)**
-
-Applied machine learning project comparing anomaly detection and supervised classifiers for imbalanced fraud detection.
 
 ### Currently Exploring
 
