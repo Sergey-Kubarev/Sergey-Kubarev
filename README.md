@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sergey
 
-<!--
-**Sergey-Kubarev/Sergey-Kubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | ML Engineering & AI Solutions
 
-Here are some ideas to get you started:
+I'm a Data Scientist based in Milan, Italy, with a background in financial services and hands-on experience building data pipelines, forecasting models, and analytics solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is **production ML, MLOps, and AI engineering**, particularly model serving, inference optimization, and cloud-native ML systems.
+
+**Tech stack**
+
+- **Languages:** Python, SQL
+- **Machine Learning:** scikit-learn, XGBoost, TensorFlow
+- **Data Engineering:** Azure Data Factory, ETL pipelines
+- **AI Engineering:** FastAPI, LLM inference, benchmarking
+- **Cloud & Analytics:** Azure, Power BI
+
+### Featured Projects
+
+**[LLM Inference Lab](https://github.com/Sergey-Kubarev/llm-inference-lab)**
+
+Local LLM inference API with FastAPI and Ollama, including latency, throughput, and concurrent-request benchmarks.
+
+**[Credit Card Fraud Detection](https://github.com/Sergey-Kubarev/fraud-detection)**
+
+Applied machine learning project comparing anomaly detection and supervised classifiers for imbalanced fraud detection.
+
+### Currently Exploring
+
+- Production LLM serving and inference optimization
+- MLOps, experiment tracking, and model monitoring
+- Containerization and cloud ML deployment
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/sergey-kubarev-ml/) · [GitHub](https://github.com/Sergey-Kubarev)
